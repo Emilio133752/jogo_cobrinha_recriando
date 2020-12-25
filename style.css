@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: black;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+h1{
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#cobra{
+    display: block;
+    margin-left: auto;
+    margin-right:  auto;
+}
+#reset{
+    position: relative;
+    bottom: 350px;
+    left: 950px;
+    outline: none;
+    border: none;
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    border-radius: 4px;
+    font:normal 16pt arial;
+    color: white;
+}
+#resultado{ 
+    color: white;
+    position: relative;
+    bottom: 300px;
+    left: 950px;
+    text-align: center;
+    width: 200px;
+    height: 80px;
+    font:normal 54pt arial;
+}
